@@ -1,4 +1,4 @@
-<img src="assets/code.png" alt="code related stuff image.." style="text-align: center; margin-bottom: 30px;" />
+<img src="https://raw.githubusercontent.com/nikoksr/nikoksr/master/assets/code.png" alt="code related stuff image.." style="text-align: center; margin-bottom: 30px;" />
 
 -   :computer: I develop modern and professional **distributed systems**
 -   :monocle_face: Interested in **full stack**

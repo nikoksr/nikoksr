@@ -2,17 +2,15 @@
 
 -   :computer: I develop modern and professional **distributed systems**
 -   :monocle_face: Interested in **full stack**
--   :rocket: Performant and stable backends written in **go** and deployed with **docker**
--   :rainbow: Learning to create functional and clean frontends in **react.js + typescript**
+-   :rocket: Performant and stable backends written in **Go** and deployed with **Docker**
+-   :rainbow: Learning to create functional and clean frontends in **React.js + TypeScript**
 -   :seedling: Currently getting into **competetive programming**
 -   :heart: Open Source Software
--   :penguin: Using only **linux** on my private machines for over 2 years
--   :pizza: I like pizza
+-   :penguin: Been using only **Linux** on my machines for the last three years
 
-<p class="aligncenter" style="text-align: center; margin-top: 30px;">
-  <!-- disable icons for now; see https://github.com/anuraghazra/github-readme-stats/issues/104 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nikoksr&count_private=true&show_icons=false&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikoksr&layout=compact&theme=tokyonight&hide=Vim%20script" />
+<p class="aligncenter" style="text-align: center; margin-top: 30px;"> 
+  <img align="center" src="https://github-readme-stats-topaz-six.vercel.app/api?username=nikoksr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="nikoksr's github stats" /> 
+  <img align="center" src="https://github-readme-stats-topaz-six.vercel.app/api/top-langs/?username=nikoksr&langs_count=10&layout=compact&theme=tokyonight&hide=Vim%20script,shell,cmake,css,html" alt="nikoksr's github languages" /> 
 </p>
 
 <h2 align="center">Stay awesome! :sunglasses:</h2>

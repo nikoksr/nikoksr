@@ -1,16 +1,28 @@
 <img src="https://raw.githubusercontent.com/nikoksr/nikoksr/master/assets/code.png" alt="code related stuff image.." style="text-align: center; margin-bottom: 30px;" />
 
--   :computer: I develop modern and professional **distributed systems**
--   :monocle_face: Interested in **full stack**
--   :rocket: Performant and stable backends written in **Go** and deployed with **Docker**
--   :rainbow: Learning to create functional and clean frontends in **React.js + TypeScript**
--   :seedling: Currently getting into **competetive programming**
--   :heart: Open Source Software
--   :penguin: Been using only **Linux** on my machines for the last three years
+<h2 align="center">Hey GitHub 👋, I'm Niko</h2>
+<h3 align="center">A Gopher who is passionate about all things Cloud.</h3>
 
-<p class="aligncenter" style="text-align: center; margin-top: 30px;"> 
-  <img align="center" src="https://github-readme-stats-topaz-six.vercel.app/api?username=nikoksr&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="nikoksr's github stats" /> 
-  <img align="center" src="https://github-readme-stats-topaz-six.vercel.app/api/top-langs/?username=nikoksr&langs_count=10&layout=compact&theme=tokyonight&hide=Vim%20script,shell,cmake,css,html" alt="nikoksr's github languages" /> 
+- 🤝 I’m looking for help with [Notify](https://github.com/nikoksr/notify)
+
+- 👯 I’m looking to collaborate on [Proji](https://github.com/nikoksr/proji)
+
+- 🌱 I’m currently learning **to forecast the Cloud's weather.**
+
+- 📫 How to reach me **contact@nikoksr.dev**
+
+- ❤️ Open-Source Software
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nikoksr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikoksr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikoksr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikoksr" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7258346/nikoksr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nikoksr" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Stay awesome! :sunglasses:</h2>
+<p><img align="left" src="https://github-readme-stats-topaz-six.vercel.app/api?username=nikoksr&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight" alt="nikoksr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-topaz-six.vercel.app/api/top-langs/?username=nikoksr&langs_count=10&layout=compact&show_icons=true&locale=en&theme=tokyonight&hide=Vim%20script,cmake,css,html" alt="nikoksr" /></p>
+
+&nbsp;
+<h2 align="center">Stay awesome! 😎</h2>

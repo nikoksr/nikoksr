@@ -12,7 +12,7 @@ Zero-dependency, type-safe and powerful post-processing for your existing config
 
 #### 📫 Get in Touch
 
-Have a question or want to collaborate? Reach out to me at i694aqo23@mozmail.com
+Have a question or want to collaborate? Reach out to me at [i694aqo23@mozmail.com](mailto:i694aqo23@mozmail.com)
 
 ---
 

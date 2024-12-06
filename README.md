@@ -12,6 +12,10 @@ I write code, break stuff, fix it, and occasionally make something cool.
 
   Zero-dependency, type-safe and powerful post-processing for your existing config solution in Go.
 
+- ##### [nikoksr/assert-go](https://github.com/nikoksr/assert-go)&nbsp;&nbsp;[![Stars](https://img.shields.io/github/stars/nikoksr/assert-go?style=flat-square&color=1A9490)](https://github.com/nikoksr/assert-go/stargazers)
+
+  Zero-dependency, idiomatic Go assertion library focused on crystal-clear failure messages and thoughtful source context. Inspired by [Tiger Style](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md#safety).
+
 #### 📫 Get in Touch
 
 Have a question or want to collaborate? Reach out to me at [i694aqo23@mozmail.com](mailto:i694aqo23@mozmail.com)

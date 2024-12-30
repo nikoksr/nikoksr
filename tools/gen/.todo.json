@@ -1,0 +1,14 @@
+{
+  "id": "proj_01jgc2rv3te009bc5c1kgmjswj",
+  "created_at": 1735572352122,
+  "updated_at": 1735572352122,
+  "todos": [
+    {
+      "id": "todo_01jgc2rv3te009fk8c2c04kafc",
+      "task": "Integrate with GitHub API to auto-pull projects",
+      "status": "NotStarted",
+      "created_at": 1735572352122,
+      "updated_at": 1735572352122
+    }
+  ]
+}

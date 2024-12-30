@@ -1,0 +1,17 @@
+### Hi there, I'm {{ .User.Name }}{{ if .EnableEmojis }} 👋{{ end }}
+
+I write code, break stuff, fix it, and occasionally make something cool.
+
+#### {{ if .EnableEmojis }}🚀 {{ end }}Highlighted Projects
+{{range .Projects}}
+- ##### [{{ .Path }}](https://github.com/{{ .Path }})&nbsp;&nbsp;[![Stars](https://img.shields.io/github/stars/{{ .Path }}?style=flat-square&color=1A9490)](https://github.com/{{ .Path }}/stargazers)
+
+  {{ .Description }}
+{{ end }}
+#### {{ if .EnableEmojis }}📫 {{ end }}Get in Touch
+
+Have a question or want to collaborate? Reach out to me at [{{ .User.Email }}](mailto:{{ .User.Email }})
+
+---
+
+<p align="center"><i>{{ .Motto }}</i></p>

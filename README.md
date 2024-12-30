@@ -16,6 +16,10 @@ I write code, break stuff, fix it, and occasionally make something cool.
 
   Zero-dependency, idiomatic Go assertion library focused on crystal-clear failure messages and thoughtful source context. Inspired by [Tiger Style](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md#safety).
 
+- ##### [nikoksr/typeid-zig](https://github.com/nikoksr/typeid-zig)&nbsp;&nbsp;[![Stars](https://img.shields.io/github/stars/nikoksr/typeid-zig?style=flat-square&color=1A9490)](https://github.com/nikoksr/typeid-zig/stargazers)
+
+  Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs implemented in Zig.
+
 #### 📫 Get in Touch
 
 Have a question or want to collaborate? Reach out to me at [i694aqo23@mozmail.com](mailto:i694aqo23@mozmail.com)

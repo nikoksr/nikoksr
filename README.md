@@ -8,17 +8,17 @@ I write code, break stuff, fix it, and occasionally make something cool.
 
   A dead simple Go library for sending notifications to various messaging services.
 
-- ##### [nikoksr/konfetty](https://github.com/nikoksr/konfetty)&nbsp;&nbsp;[![Stars](https://img.shields.io/github/stars/nikoksr/konfetty?style=flat-square&color=1A9490)](https://github.com/nikoksr/konfetty/stargazers)
-
-  Zero-dependency, type-safe and powerful post-processing for your existing config solution in Go.
-
 - ##### [nikoksr/assert-go](https://github.com/nikoksr/assert-go)&nbsp;&nbsp;[![Stars](https://img.shields.io/github/stars/nikoksr/assert-go?style=flat-square&color=1A9490)](https://github.com/nikoksr/assert-go/stargazers)
 
-  Zero-dependency, idiomatic Go assertion library focused on crystal-clear failure messages and thoughtful source context. Inspired by [Tiger Style](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md#safety).
+  Tiny (~100 LoC) Go assertion library focused on crystal-clear failure messages and thoughtful source context.
 
 - ##### [nikoksr/typeid-zig](https://github.com/nikoksr/typeid-zig)&nbsp;&nbsp;[![Stars](https://img.shields.io/github/stars/nikoksr/typeid-zig?style=flat-square&color=1A9490)](https://github.com/nikoksr/typeid-zig/stargazers)
 
   Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs implemented in Zig.
+
+- ##### [nikoksr/konfetty](https://github.com/nikoksr/konfetty)&nbsp;&nbsp;[![Stars](https://img.shields.io/github/stars/nikoksr/konfetty?style=flat-square&color=1A9490)](https://github.com/nikoksr/konfetty/stargazers)
+
+  Zero-dependency, type-safe and powerful post-processing for your existing config solution in Go.
 
 #### 📫 Get in Touch
 

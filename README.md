@@ -22,7 +22,7 @@ I write code, break stuff, fix it, and occasionally make something cool.
 
 #### 📫 Get in Touch
 
-Have a question or want to collaborate? Reach out to me at [i694aqo23@mozmail.com](mailto:i694aqo23@mozmail.com)
+Have a question or want to collaborate? Reach out to me at [hi@nikoksr.dev](mailto:hi@nikoksr.dev)
 
 ---
 
